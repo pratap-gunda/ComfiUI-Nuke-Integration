@@ -3,8 +3,6 @@ import subprocess
 import sys
 import os
 
-
-
 # Add the custom comfiUI menu
 def add_comfi_menu():
     import nuke
