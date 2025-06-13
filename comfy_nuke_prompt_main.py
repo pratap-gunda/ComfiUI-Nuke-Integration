@@ -397,6 +397,5 @@ def show_nuke_ui():
         ui.close()  # Close the UI if it's already open
     except:
         pass
-
     ui = NukeUI()
     ui.show()
