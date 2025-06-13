@@ -1,0 +1,5 @@
+PySide6
+PySide2
+websocket
+requests
+subprocess
